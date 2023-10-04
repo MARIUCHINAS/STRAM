@@ -18,7 +18,7 @@ For the game id its a little difrent but the same principle just go onto the wor
 so for this one the game id would be 1118200
 For getting game id's you can also use this site: https://steamdb.info/sub/17906/apps/
 
-# What else do i need to know?
+## What else do i need to know?
 When you first lauch the app it will ask you to install steamcmd and take you to the download just once the zip file has downloaded unzip it using "Extract files" then put the resulting folder in the STRAM directory
 
 ## Contribute
