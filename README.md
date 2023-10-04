@@ -11,9 +11,9 @@ List of supported games for anonymous download: https://steamdb.info/sub/17906/a
 Yes they do. I made STRAM for personal use and to learn not to invent something new.
 
 ## How do i get the Game/Workshop ID?
-# Workshop ID
+### Workshop ID
 Its pretty simple when you find the asset you want to download get its url and extract the workshop id from it so for example if you want to download this asset: https://steamcommunity.com/sharedfiles/filedetails/?id=3004124307 the the Worksop id would be 3004124307
-# Game ID
+### Game ID
 For the game id its a little difrent but the same principle just go onto the workshop page for the game you are getting the asset for and get the link: https://steamcommunity.com/app/1118200/workshop/
 so for this one the game id would be 1118200
 For getting game id's you can also use this site: https://steamdb.info/sub/17906/apps/
