@@ -19,7 +19,14 @@ so for this one the game id would be 1118200
 For getting game id's you can also use this site: https://steamdb.info/sub/17906/apps/
 
 ## What else do i need to know?
-When you first lauch the app it will ask you to install steamcmd and take you to the download just once the zip file has downloaded unzip it using "Extract files" then put the resulting folder in the STRAM directory
+When you first lauch the app it will ask you to install steamcmd and take you to the download just once the zip file has downloaded unzip it using "Extract files" then put the resulting folder in the STRAM directory and make sure the folder is named steamcmd.
+
+## Disclaimer 
+### Dont pirate
+I do not condone privacy and i ask you not to use this program for bad intention i am not responsible for anything you might do with this tool.
+
+### I am not with Steam Workshop Downloader IO
+I am not affiliated with the https://steamworkshopdownloader.io/ project 
 
 ## Contribute
 Please feel free to contribute. I would be very happy 🙂
