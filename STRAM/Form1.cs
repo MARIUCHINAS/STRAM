@@ -65,6 +65,7 @@ namespace STRAM
 
         private void STRAM_Load(object sender, EventArgs e)
         {
+            currentDirectory = Environment.CurrentDirectory + @"\steamcmd";
             if (!Directory.Exists(currentDirectory))
             {
                 MessageBox.Show("Could not find steamcmd folder in directory please install steamcmd and put the folder in this directory");
