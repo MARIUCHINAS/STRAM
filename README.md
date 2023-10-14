@@ -25,8 +25,9 @@ When you first launch the app it will ask you to install steamcmd and take you t
 ### Dont pirate
 I do not condone piracy and I ask you not to use this program with bad intentions I am not responsible for anything you might do with this tool.
 
-### I am not with Steam Workshop Downloader IO
-I am not affiliated with the https://steamworkshopdownloader.io/ project 
+### I am not with Steam Workshop Downloader IO or Steam
+I am not affiliated with the https://steamworkshopdownloader.io/ project.
+As well as I am not affiliated Steam this is a community project!
 
 ## Contribute
 Please feel free to contribute. I would be very happy 🙂
