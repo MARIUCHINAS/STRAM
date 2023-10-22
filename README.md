@@ -3,6 +3,8 @@
 
 ## Disclaimer
 Steam is constantly cracking down on steam workshop downloaders so dont be surprised if this stops working.
+I am not affiliated with the https://steamworkshopdownloader.io/ project.
+As well as I am not affiliated Steam this is a community project!
 
 ## What does the STRAM do?
 It is a Steam workshop downloader that downloads stuff.
@@ -24,13 +26,8 @@ To get the game ID you can also use this site: https://steamdb.info/sub/17906/ap
 ## What else do I need to know?
 When you first launch the app it will ask you to install steamcmd and take you to the download once the zip file has been downloaded unzip it using "Extract files" then put the resulting folder in the STRAM directory and make sure the folder is named steamcmd.
 
-## Disclaimer 
 ### Dont pirate
 I do not condone piracy and I ask you not to use this program with bad intentions I am not responsible for anything you might do with this tool.
-
-### I am not with Steam Workshop Downloader IO or Steam
-I am not affiliated with the https://steamworkshopdownloader.io/ project.
-As well as I am not affiliated Steam this is a community project!
 
 ## Contribute
 Please feel free to contribute. I would be very happy 🙂
