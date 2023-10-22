@@ -2,7 +2,7 @@
 ![STRAM](https://raw.githubusercontent.com/MARIUCHINAS/STRAM/master/STRAM/Resources/STRAM%20(Custom).png)
 
 ## Disclaimer
-### Steam is constantly cracking down on steam workshop downloaders so dont be surprised if this stops working.
+Steam is constantly cracking down on steam workshop downloaders so dont be surprised if this stops working.
 
 ## What does the STRAM do?
 It is a Steam workshop downloader that downloads stuff.
